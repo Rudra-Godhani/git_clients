@@ -18,6 +18,5 @@ ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruc
 helloooooo
 &nbsp;
 &nbsp;
-helloooooo
-helloooooo
+helloooooo&nbsp;helloooooo
 welcome
