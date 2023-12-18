@@ -15,8 +15,14 @@ We’ve trained a model called ChatGPT which interacts in a conversational way. 
 
 ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
 
+Hii How Are You?
+
 helloooooo
 &nbsp;
 &nbsp;
 helloooooo&nbsp;helloooooo
 welcome
+
+
+
+I am a Great person
