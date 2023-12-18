@@ -15,7 +15,11 @@ We’ve trained a model called ChatGPT which interacts in a conversational way. 
 
 ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
 
+
+Github is Repository
+
 Hii How Are You?
+
 
 helloooooo
 &nbsp;
@@ -24,5 +28,9 @@ helloooooo&nbsp;helloooooo
 welcome
 
 
+This is a Amizng Place
+
+
 
 I am a Great person
+
