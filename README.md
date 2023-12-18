@@ -18,8 +18,7 @@ ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruc
 
 Github is Repository
 
-Hii How Are You?
-
+next 
 
 helloooooo
 &nbsp;
